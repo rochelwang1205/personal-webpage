@@ -28,7 +28,7 @@ This is a solution to the [ 第二週 - 個人網站 ](https://rochelwang1205.gi
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- 
+  
 ### The following goals
 - 2023/07/25 調整標籤、CSS細節及更新Contact Me區塊之圖片
 - 2023/07/24 通過作業審核
