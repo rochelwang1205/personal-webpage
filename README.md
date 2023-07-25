@@ -1,5 +1,5 @@
 # personal-webpage.github.io
-This is a solution to the [第二週 - 個人網站]([https://rochelwang1205.github.io/personalres.github.io/%E7%AC%AC%E4%B8%80%E9%80%B1%E4%B8%BB%E7%B7%9A%E4%BB%BB%E5%8B%99.html](https://rpg.hexschool.com/training/36/task/self)).
+This is a solution to the [ 第二週 - 個人網站 ](https://rochelwang1205.github.io/personalres.github.io/%E7%AC%AC%E4%B8%80%E9%80%B1%E4%B8%BB%E7%B7%9A%E4%BB%BB%E5%8B%99.html).
 
 ## Table of contents
 
@@ -36,8 +36,8 @@ This is a solution to the [第二週 - 個人網站]([https://rochelwang1205.git
 
 ### Useful resources
 好用的資源：
-- 1. [93 Beautiful CSS box-shadow examples]https://getcssscan.com/css-box-shadow-examples，有各種效果，可以挑喜歡的複製CSS語法使用調整!
-- 2. [box-shadow -CSS | MDN]https://developer.mozilla.org/zh-TW/docs/Web/CSS/box-shadow，每次都會忘記怎麼用...
+- 1. [93 Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples)，有各種效果，可以挑喜歡的複製CSS語法使用調整!
+- 2. [box-shadow -CSS | MDN](https://developer.mozilla.org/zh-TW/docs/Web/CSS/box-shadow)，每次都會忘記怎麼用...
 ## Author
 
 - Website - [Rochel Wang](https://github.com/rochelwang1205)
