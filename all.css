@@ -163,13 +163,16 @@ h2{
     display: flex;
     align-items: center;
     gap: 24px;
-    margin-right: 20px;
+}
+.ability ol{
+    padding-left: 0px;
 }
 .card{
     border:1px solid #E3E3E3;
     padding: 16px;
     margin-bottom: 24px;
     width: 306px;
+    margin-left: 0px;
 }
 .card:hover{
     box-shadow: 4px 4px 4px #D1D1D1;
