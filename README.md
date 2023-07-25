@@ -1,5 +1,6 @@
 # personal-webpage.github.io
 This is a solution to the [ 第二週 - 個人網站 ](https://rochelwang1205.github.io/personalres.github.io/%E7%AC%AC%E4%B8%80%E9%80%B1%E4%B8%BB%E7%B7%9A%E4%BB%BB%E5%8B%99.html).
+[畫面screenshot](image/screenshot.png)
 
 ## Table of contents
 
