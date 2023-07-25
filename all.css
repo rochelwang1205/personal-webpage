@@ -57,17 +57,23 @@ body{
 }
 /* nav */
 nav{
-    margin: 0 312px;
+    width: 1296px;
+    margin: 0 auto;
     padding-top: 40px;
 }
 .page{
     display: flex;
     justify-content:space-between;
+    color:#D1D1D1;
 }
 nav a{
     color:#D1D1D1;
     font-size: 16px;
 }
+nav a:hover{
+    color: #00FFA3;
+}
+
 /* header */
 header{
     display: flex;
@@ -99,7 +105,6 @@ h2{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: right;
 }
 .btn{
     text-align: right;
@@ -111,17 +116,22 @@ h2{
     padding: 12px 24px;
     background-color: #FFFFFF;
 }
+.hello .btn a:hover{
+    background-color: #00FFA3;
+    color: #FFFFFF;
+}
 /* .container */
 /* intro */
 .intro{
-    display: flex;
     gap:24px;
     padding: 160px 0;
     background:url("https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/background-img.png?raw=true") center center; 
     background-size:cover; 
 }
-.intro .introtxt{
-    margin-left:312px;
+.wrapIntro{
+    display: flex;
+    width: 1296px;
+    margin: 0 auto;
 }
 .intro h3{
     font-size:64px;
@@ -140,7 +150,6 @@ h2{
     width: 746px;
     display: flex;
     gap:24px;
-    margin-right:312px;
 }
 /* .about */
 .about{
@@ -148,19 +157,22 @@ h2{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 160px 312px
+    padding: 160px 312px;
 }
 .ability{
     display: flex;
     align-items: center;
-    justify-content: center;
     gap: 24px;
+    margin-right: 20px;
 }
 .card{
     border:1px solid #E3E3E3;
     padding: 16px;
     margin-bottom: 24px;
     width: 306px;
+}
+.card:hover{
+    box-shadow: 4px 4px 4px #D1D1D1;
 }
 .card h4{
     font-size: 20px;
@@ -210,9 +222,16 @@ h2{
     margin-left: 48px;
     margin-top: 0;
     margin-bottom: 0;
+    gap:20px;
 }
-.icon img{
+.icon  li img{
     width:162px;
+    height:162px;
+    border-radius: 40px;
+}
+.icon li img:hover{
+    box-shadow: 4px 4px 4px 4px ;
+    box-shadow: rgba(144, 148, 255, 0.9) 0px 0px 40px 0px;
 }
 /* projects */
 .projects {
@@ -253,6 +272,9 @@ h2{
     background-color: #000000;
     border-radius: 32px;
     width: fit-content;
+}
+.words a:hover{
+    background-color: #00FFA3;
 }
 .words a span{
     vertical-align: sub;
