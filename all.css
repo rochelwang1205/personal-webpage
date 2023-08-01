@@ -121,6 +121,9 @@ h2{
     color: #FFFFFF;
 }
 /* .container */
+.container{
+    margin: 0 auto;
+}
 /* intro */
 .intro{
     gap:24px;
@@ -152,26 +155,33 @@ h2{
     gap:24px;
 }
 /* .about */
-.about{
+.container{
     background-color: #FFFFFF;
+}
+.about{
+    width:1296px;
+    margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 160px 312px;
+    padding-top: 160px;
+    padding-bottom: 160px;
 }
 .ability{
     display: flex;
     align-items: center;
-    gap: 24px;
 }
 .ability ol{
+    display: flex;
+    flex-wrap: wrap;
     padding-left: 0px;
+    gap: 24px;
+    width: 672px;
 }
 .card{
     border:1px solid #E3E3E3;
     padding: 16px;
-    margin-bottom: 24px;
-    width: 306px;
+    width: 290px;
     margin-left: 0px;
 }
 .card:hover{
